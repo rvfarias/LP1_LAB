@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1563845954 source:c:\users\rafael\documents\ci\programação\invoice\src\invoice.cpp
+	"Invoice.h"
+	<string>
+
+1563845992 c:\users\rafael\documents\ci\programação\invoice\include\invoice.h
+	<string>
+
+1563845924 source:c:\users\rafael\documents\ci\programação\invoice\main.cpp
+	<iostream>
+	<string>
+	"Invoice.h"
+

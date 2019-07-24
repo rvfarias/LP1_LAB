@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1563921091 source:c:\users\rafael\documents\ci\programação\mesada\main.cpp
+	<iostream>
+	"Despesa.h"
+	"ControleDeGastos.h"
+
+1563919372 source:c:\users\rafael\documents\ci\programação\mesada\src\controledegastos.cpp
+	"ControleDeGastos.h"
+	<iostream>
+
+1563921090 c:\users\rafael\documents\ci\programação\mesada\include\controledegastos.h
+	"Despesa.h"
+
+1563921312 source:c:\users\rafael\documents\ci\programação\mesada\src\despesa.cpp
+	"Despesa.h"
+
+1563921091 c:\users\rafael\documents\ci\programação\mesada\include\despesa.h
+	<string>
+

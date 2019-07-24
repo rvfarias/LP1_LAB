@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563928124 source:c:\users\rafael\documents\ci\programação\data3\main.cpp
+	<iostream>
+	<iomanip>
+	"Data.h"
+
+1563829904 source:c:\users\rafael\documents\ci\programação\data3\src\data.cpp
+	"Data.h"
+
+1563829087 c:\users\rafael\documents\ci\programação\data3\include\data.h
+

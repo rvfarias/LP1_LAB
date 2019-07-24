@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\rafael\documents\ci\programação\pessoa\main.cpp
+	<iostream>
+
+1563846874 source:c:\users\rafael\documents\ci\programação\pessoa\src\pessoa.cpp
+	"Pessoa.h"
+
+1563846549 c:\users\rafael\documents\ci\programação\pessoa\include\pessoa.h
+	<string>
+
